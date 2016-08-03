@@ -54,7 +54,9 @@ var vis = d3.select("#body").append("svg:svg")
   .append("svg:g")
     .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
 
-d3.json("assets/flare_example.json", function(json) {
+// get flare json
+var flare_json = getParameterByName('flare_json');
+d3.json("assets/flare_json/" + flare_json, function(json) {
   root = json;
   root.x0 = h / 2;
   root.y0 = 0;
@@ -175,6 +177,17 @@ function toggle(d) {
     d.children = d._children;
     d._children = null;
   }
+}
+
+// Parse get parameters (http://stackoverflow.com/a/901144/1196358)
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
 
     </script>
