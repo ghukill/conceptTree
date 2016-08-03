@@ -1,19 +1,15 @@
 {
- "name": "Class Themes",
- "children": [
-   
-   {
-   "name": "Classic Text",
-   "children": [
-    
-    {
-     "name": "GOOBER",
-     "children": [
-      {"name": "TRONIC", "size": 3579},      
-     ]
-    }
-        
-   ]
-  }
- ]
+    "name": "root",
+    "children": [
+        { "name": "d1",
+            "children": [
+                { "name": "name1" }
+            ]
+        },
+        { "name": "d2",
+            "children": [
+                { "name": "name1" }
+            ]
+        }
+    ]
 }
