@@ -1,44 +1,41 @@
 {
-  "name": "root",
+  "name": "Class Themes",
   "children": [
     {
-      "name": "Week",
+      "name": "Weeks",
       "children": [
         {
-          "name": 1,
+          "name": "Week 1",
           "children": [
             {
-              "name": 2,
+              "name": "Week 2",
               "children": [
                 {
-                  "name": 3,
+                  "name": "Week 3",
                   "children": [
                     {
-                      "name": 4,
+                      "name": "Week 4",
                       "children": [
                         {
-                          "name": 5,
+                          "name": "Week 5",
                           "children": [
                             {
-                              "name": 6,
+                              "name": "Week 6",
                               "children": [
                                 {
-                                  "name": 7,
+                                  "name": "Week 7",
                                   "children": [
                                     {
-                                      "name": 8,
+                                      "name": "Week 8",
                                       "children": [
                                         {
-                                          "name": 9,
+                                          "name": "Week 9",
                                           "children": [
                                             {
-                                              "name": 10,
+                                              "name": "Week 10",
                                               "children": [
                                                 {
-                                                  "name": 11,
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Week 11"                                                  
                                                 }
                                               ]
                                             }
@@ -69,7 +66,7 @@
           "name": "Meaning--How to--Other classics--Detroit as Classic",
           "children": [
             {
-              "name": "tdf.",
+              "name": null,
               "children": [
                 {
                   "name": null,
@@ -96,10 +93,7 @@
                                               "name": "Urban renewal projects",
                                               "children": [
                                                 {
-                                                  "name": "How does it hold up? Megastructures v. HP",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "How does it hold up? Megastructures v. HP"                                                  
                                                 }
                                               ]
                                             }
@@ -157,10 +151,7 @@
                                               "name": "Decentralized city, unequal access to resources and political power, Urban renewal projects",
                                               "children": [
                                                 {
-                                                  "name": "Urban renewal, renaisssance, placelessness, Megastructures v. HP",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Urban renewal, renaisssance, placelessness, Megastructures v. HP"                                                  
                                                 }
                                               ]
                                             }
@@ -218,10 +209,7 @@
                                               "name": "Myth of suburbs as indie, private, self-reliant when still reliant on city/public resources, City on a Hill, Morning in America",
                                               "children": [
                                                 {
-                                                  "name": "Megastructures (Neo-Lib), HP (indie, diversity, meritocracy)",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Megastructures (Neo-Lib), HP (indie, diversity, meritocracy)"
                                                 }
                                               ]
                                             }
@@ -279,10 +267,7 @@
                                               "name": "Myth of suburbs as indie, private, self-reliant when still reliant on city/public resources, City on a Hill, Morning in America, urban renewal projects to improve?",
                                               "children": [
                                                 {
-                                                  "name": "Megastructures--growing cap, indie, HP--diversity, social mobility",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Megastructures--growing cap, indie, HP--diversity, social mobility"
                                                 }
                                               ]
                                             }
@@ -340,10 +325,7 @@
                                               "name": "New frontier is decentralized cities, leave central city, City on a Hill, Urban renewal projects, Chaplin leaving? Walk away from Omelas?",
                                               "children": [
                                                 {
-                                                  "name": "Edge cities, Different ways of seeing (HP) frontier? Moving back to city among young (gentrification)",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Edge cities, Different ways of seeing (HP) frontier? Moving back to city among young (gentrification)"
                                                 }
                                               ]
                                             }
@@ -401,10 +383,7 @@
                                               "name": "Attempt to break further from past in decade of malaise, neo-lib revolution attempts further, walk away from Omelas?",
                                               "children": [
                                                 {
-                                                  "name": "Younger people want to remember past not forget, megastructures attempt to break, though ren cen also a form of memory",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Younger people want to remember past not forget, megastructures attempt to break, though ren cen also a form of memory"
                                                 }
                                               ]
                                             }
@@ -462,10 +441,7 @@
                                               "name": "Shape of city shapes racial, class, to some extent gender divisions, urban renewal projects",
                                               "children": [
                                                 {
-                                                  "name": "Buildings keep people without $ out, HP includes everyone",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Buildings keep people without $ out, HP includes everyone"
                                                 }
                                               ]
                                             }
@@ -523,10 +499,7 @@
                                               "name": "Peripheral, neo-libs remake as separate from 60s, Black Power communities without support, women's lib",
                                               "children": [
                                                 {
-                                                  "name": "Both are kind of designer! One focuses on indie cap, the other communal art",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Both are kind of designer! One focuses on indie cap, the other communal art"
                                                 }
                                               ]
                                             }
@@ -584,10 +557,7 @@
                                               "name": "How does this operate when racial, economic divides? Gendered spaces blurring, Urban renewal projects",
                                               "children": [
                                                 {
-                                                  "name": "Megastructures only if $$, HP attempts to take back (not everyone supports!)",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Megastructures only if $$, HP attempts to take back (not everyone supports!)"
                                                 }
                                               ]
                                             }
@@ -645,10 +615,7 @@
                                               "name": "Forget city even exists, or responsibility to it",
                                               "children": [
                                                 {
-                                                  "name": "City more a memory machine!",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "City more a memory machine!"
                                                 }
                                               ]
                                             }
@@ -706,10 +673,7 @@
                                               "name": null,
                                               "children": [
                                                 {
-                                                  "name": "Not among different races, classes, ages",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Not among different races, classes, ages"
                                                 }
                                               ]
                                             }
@@ -767,10 +731,7 @@
                                               "name": "Shift to suburbs, but new stuff urban--hip hop, etc.",
                                               "children": [
                                                 {
-                                                  "name": "Gentrified culture of youth more based in urban ID ",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Gentrified culture of youth more based in urban ID "
                                                 }
                                               ]
                                             }
@@ -828,10 +789,7 @@
                                               "name": "Miss city, loss of culture, sense of homogeneity in peripheral",
                                               "children": [
                                                 {
-                                                  "name": "Longing for city due to placelessness, homogenity",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Longing for city due to placelessness, homogenity"
                                                 }
                                               ]
                                             }
@@ -889,10 +847,7 @@
                                               "name": "Generally homogenous, meant for profit, urban renewal projects",
                                               "children": [
                                                 {
-                                                  "name": "HP v. Megastructures (though HP economic potential and Megastructures intended to revamp)",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "HP v. Megastructures (though HP economic potential and Megastructures intended to revamp)"
                                                 }
                                               ]
                                             }
@@ -950,10 +905,7 @@
                                               "name": "Production moves to non-union areas or out of country, based on consumerism",
                                               "children": [
                                                 {
-                                                  "name": "Produce art in a consumerist culture",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Produce art in a consumerist culture"
                                                 }
                                               ]
                                             }
@@ -1011,10 +963,7 @@
                                               "name": null,
                                               "children": [
                                                 {
-                                                  "name": null,
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": null
                                                 }
                                               ]
                                             }
@@ -1072,10 +1021,7 @@
                                               "name": "Uniformity in decentralized suburbs",
                                               "children": [
                                                 {
-                                                  "name": "Megastructures, neo-lib uniformity, placelessness of cities, HP unity among neighbourhoods, Rivera ",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Megastructures, neo-lib uniformity, placelessness of cities, HP unity among neighbourhoods, Rivera "
                                                 }
                                               ]
                                             }
@@ -1133,10 +1079,7 @@
                                               "name": null,
                                               "children": [
                                                 {
-                                                  "name": null,
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": null
                                                 }
                                               ]
                                             }
@@ -1194,10 +1137,7 @@
                                               "name": "Reagan's City on a Hill, Morning in America",
                                               "children": [
                                                 {
-                                                  "name": "Builds on 1935! Tech advancements",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Builds on 1935! Tech advancements"
                                                 }
                                               ]
                                             }
@@ -1255,10 +1195,7 @@
                                               "name": "Detachment from community and city, walk away from Omelas",
                                               "children": [
                                                 {
-                                                  "name": "Homogenity, detachment",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Homogenity, detachment"
                                                 }
                                               ]
                                             }
@@ -1316,10 +1253,7 @@
                                               "name": "Expansion of suburbs, decentralization of political and economic power, public support of private investment, gendered blurring after women's lib",
                                               "children": [
                                                 {
-                                                  "name": "Placelessness, Edge Cities",
-                                                  "children": [
-                                                    {}
-                                                  ]
+                                                  "name": "Placelessness, Edge Cities"
                                                 }
                                               ]
                                             }
