@@ -87,3 +87,7 @@ a:hover {
   font-size: 12px;
   color: #999;
 }
+
+text {
+  -webkit-transform: rotate(-45deg);
+}
