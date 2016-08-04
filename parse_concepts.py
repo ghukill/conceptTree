@@ -7,28 +7,37 @@ import sys
 # OPENPYXL
 from openpyxl import load_workbook
 
-class ConceptNode(object):
 
-    def __init__(self, name, children):
-        self.name = name
-        self.children = children
+def convert_data(data):                                     
+    out = {'name': 'root', 'children': []}           
 
-    def asDict(self):
-        return {
-            "name":self.name,
-            "children":self.children
-        }
+    for row in data:                                 
+        out['children'].append({})                   
+        current = out['children']                    
+        for value in row:                            
+            current[-1]['name'] = value.value              
+            current[-1]['children'] = [{}]           
 
-def parse_concepts(f):
+            current = current[-1]['children']        
+
+    return out 
+
+
+def parse_concepts(f,t):
     # load workbook
     wb = load_workbook(f)
 
     # get active (only) sheet
     ws = wb.active
 
-    # beging to build python dictionary
-    concept_dict = {}
+    # convert
+    # http://stackoverflow.com/a/38753169/1196358
+    flare_dict = convert_data(ws.rows)
+    
+    # write to file    
+    with open('assets/flare_json/%s' % t) as fhand:
+        fhand.write(json.dumps(flare_dict))
 
 
 if __name__ == '__main__':
-    parse_concepts(sys.argv[1])
+    parse_concepts(sys.argv[1],sys.argv[2])
